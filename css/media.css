@@ -1,0 +1,137 @@
+@media(max-width:600px) {
+    nav {
+        height: 70px;
+        overflow: hidden;
+    }
+    
+    nav .container {
+        height: 100%;
+    }
+
+    nav .container .logo h1 {
+        position: absolute;
+        top: 20%;
+        right: 70%;
+    }
+
+    nav .container .toggler {
+        height: 100%;
+    }
+
+    nav .container .toggler i {
+        display: block;
+        padding: 0px 0px 0px 130px;
+    }
+
+    nav .container .navbar ul {
+        display: none;
+    }
+
+    .firstpart {
+        height: auto;
+    }
+
+    .firstpart h1 {
+        font-size: 28px;
+    }
+
+    .firstpart p {
+        font-size: 18px;
+    }
+
+    .firstpart img {
+        width: 370px;
+        height: 192px;
+    }
+
+    .secondpart {
+        height: 950px;
+    }
+
+    .secondpart .section {
+        margin-top: 80px;
+    }
+
+    .secondpart .section .forsa {
+        font-size: 50px;
+    }
+
+    .secondpart .section-2 {
+        top: 55%;
+        flex-wrap: wrap;
+    }
+
+    .secondpart .section-2 .vision {
+        width: 100%;
+        padding-bottom: 70px;
+    }
+
+
+    .secondpart .section-2 .mission {
+        width: 100%;
+    }
+
+    .thirdpart {
+        height: 1280px;
+    }
+
+    .thirdpart .topic {
+        font-size: 50px;
+    }
+
+    .thirdpart .container-1 {
+        top: 20%;
+    }
+
+    .thirdpart .container-1 .tools {
+        width: 100%;
+    }
+
+    .thirdpart .container-1 .tools-2 {
+        width: 100%;
+        margin-bottom: 110px;
+    }
+
+    .forthpart {
+        height: 1150px;
+    }
+
+    .forthpart .container {
+        top: 10%;
+    }
+
+    .forthpart .container .section-upper {
+        width: 100%;
+    }
+
+    .forthpart .container .section-lower {
+        width: 100%;
+        margin-bottom: 100px;
+    }
+
+    .last {
+        height: 1050px;
+    }
+
+    .last .container {
+        flex-wrap: wrap;
+        top: 10%;
+    }
+
+    .last .container .section-left {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .last .container .section-left .location p {
+        font-size: 14px;
+    }
+
+    .last .container .section-right{
+        width: 100%;
+    }
+
+    .design{
+        padding-bottom: 25px;
+    }
+}
